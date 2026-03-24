@@ -1,4 +1,5 @@
 ## Hi there 👋
+A modern badminton club website showcasing schedules, team info, and events, helping players connect, join easily, and stay updated online..
 
 <!--
 **nanndinisharma/nanndinisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
